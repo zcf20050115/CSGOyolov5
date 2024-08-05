@@ -15,7 +15,7 @@ scipy==1.8.0
 thop==0.1.1.post2209072238
 torch==1.5.1
 torchvision==0.6.1
-tqdm==4.64.0
+tqdm==4.66.3
 
 # Part2: Refer to z_captureScreen.py, z_ctypes.py and z_detect5.py for more details.------------------
 
