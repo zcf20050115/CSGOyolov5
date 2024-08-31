@@ -7,7 +7,7 @@ coremltools==6.1
 matplotlib==3.5.1
 numpy==1.21.5
 onnx==1.13.0
-opencv_python==4.5.5.64
+opencv_python==4.8.1.78
 Pillow==9.4.0
 pycocotools==2.0.6
 PyYAML==6.0
